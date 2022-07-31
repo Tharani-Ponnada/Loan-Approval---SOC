@@ -68,7 +68,7 @@ Below is the website hosted in Heroku.
 
 
 <p align="center">
-  <img src="images/website.JPG">
+  <img src="images/website.jpg">
 </p>
 
 
